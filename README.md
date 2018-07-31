@@ -1,1 +1,1 @@
-# FluoRite
+# FluoRite UNIFOX Python Study practice
